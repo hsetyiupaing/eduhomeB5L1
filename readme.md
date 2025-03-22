@@ -65,9 +65,9 @@ Website contains multiple webpages where as webpage is only a single page of web
 ### Texts
 ```html
     <p>Hello World</p> <!-- paragraph-->
-    <b>Hello World</b>  
-    <i>Hello World</i>
-    <u>Hello World</u>
+    <b>Hello World</b>  <!-- bold-->
+    <i>Hello World</i>  <!-- itallic-->
+    <u>Hello World</u>  <!-- underlined-->
 
 ```
 
