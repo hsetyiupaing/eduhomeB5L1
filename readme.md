@@ -121,6 +121,10 @@ Color of Background, can be define with 'background-color' cascade.
 1. src (source)
 2. alt (alternative)
 
+```html
+    <img src="./assets/cat.jpg" alt="cat">
+```
+
 ## src
 source of image
 2 types of path to find source
